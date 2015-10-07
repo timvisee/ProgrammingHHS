@@ -76,6 +76,13 @@ public class Main {
         return lowest;
     }
 
+    /**
+     * Get the occurrence count of a specific value in the array.
+     *
+     * @param value The value.
+     *
+     * @return The number of occurrences of this value.
+     */
     public static int getOccurrence(int value) {
         // Define an array to count the occurrences
         int occurrences = 0;

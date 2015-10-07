@@ -1,8 +1,13 @@
+/**
+ * Developed by Tim Visee, as challenges for De Haagse Hoogeschool.
+ * Copyright Tim Visee (c) 2015. All rights reserved.
+ *
+ * @author Tim Visee
+ * @website http://timvisee.com/
+ */
+
 package com.timvisee.hhs;
 
-/**
- * Created by Tim on 21-9-2015.
- */
 public class Result {
 
     /** The letter of this result. */

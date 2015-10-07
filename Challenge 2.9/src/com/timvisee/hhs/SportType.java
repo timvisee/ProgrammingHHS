@@ -12,5 +12,5 @@ public enum SportType {
 
     /** Sport types. */
     FOOTBALL,
-    HANDBALL;
+    HANDBALL
 }
